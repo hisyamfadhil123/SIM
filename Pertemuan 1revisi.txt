@@ -10,3 +10,5 @@ data_siswa = ["Ani", "Budi", "Citra"]
 
 for siswa in data_siswa:
     print("Nama siswa:", siswa)
+k
+
